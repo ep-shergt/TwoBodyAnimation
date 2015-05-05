@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenGLGravity", "OpenGLGravity\OpenGLGravity.vcxproj", "{246A5AFB-6717-4E73-AD6C-96B86ED1BA21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246A5AFB-6717-4E73-AD6C-96B86ED1BA21}.Debug|Win32.ActiveCfg = Debug|Win32
+		{246A5AFB-6717-4E73-AD6C-96B86ED1BA21}.Debug|Win32.Build.0 = Debug|Win32
+		{246A5AFB-6717-4E73-AD6C-96B86ED1BA21}.Release|Win32.ActiveCfg = Release|Win32
+		{246A5AFB-6717-4E73-AD6C-96B86ED1BA21}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
